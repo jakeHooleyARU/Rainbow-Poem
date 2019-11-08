@@ -1,7 +1,8 @@
 my poem
-a
-b
-c
-d
-new change
+red
 yellow
+green
+blue
+orange
+purple
+and so on...
