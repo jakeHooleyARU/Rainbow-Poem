@@ -1,8 +1,4 @@
 my poem
-red
-yellow
-green
-blue
 orange
 purple
 beige
