@@ -1,8 +1,7 @@
 my poem
-red
-yellow
-green
-blue
 orange
 purple
+beige
+ivory
+khaki
 and so on...
