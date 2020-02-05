@@ -7,4 +7,5 @@ orange
 purple
 beige
 ivory
+khaki
 and so on...
