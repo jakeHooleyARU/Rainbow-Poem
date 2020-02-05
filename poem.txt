@@ -5,4 +5,5 @@ green
 blue
 orange
 purple
+beige
 and so on...
