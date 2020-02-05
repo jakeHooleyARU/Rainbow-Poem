@@ -6,4 +6,5 @@ blue
 orange
 purple
 beige
+ivory
 and so on...
